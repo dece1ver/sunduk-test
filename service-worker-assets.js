@@ -25,7 +25,7 @@
       "url": "img\/apple_setup_2.png"
     },
     {
-      "hash": "sha256-4bghFkmtJeJB9lgEDS5\/AomTSCpipyPAI0ULvWR+i6A=",
+      "hash": "sha256-h0SKO\/dH3qZKyauIYsXVnnSGQyK8vqVZFoKbaw+HhUc=",
       "url": "img\/stuffimages\/chamfer\/ext_chamfer_angle.svg"
     },
     {
@@ -45,23 +45,23 @@
       "url": "img\/stuffimages\/chamfer\/ext_tool_radius.svg"
     },
     {
-      "hash": "sha256-bWi5kPVUyGxL5oxddwrH\/qlqCuQWoqoGVErOxM2Ef1I=",
+      "hash": "sha256-uEPFvbCZ7zIWfQhjVPBU8ddyhKEIs5bqKRB7zfazBPY=",
       "url": "img\/stuffimages\/chamfer\/int_chamfer_angle.svg"
     },
     {
-      "hash": "sha256-fcv9azhPF3O2+ubsy5LPHsu0KTxw6B3K72FoLc3pcXQ=",
+      "hash": "sha256-41rbogggDq2m6fli9s0YUEGGRcRW4rcnoRjBzFBLzgI=",
       "url": "img\/stuffimages\/chamfer\/int_chamfer_diam.svg"
     },
     {
-      "hash": "sha256-uwL5wRRYpV3plxlagGxsY\/9Ou40Xt9HsQ0Drcy2qXqI=",
+      "hash": "sha256-uLNGngHA8TlLlQH7eCu24F7wX2xMPSNKOoFkulwvpjk=",
       "url": "img\/stuffimages\/chamfer\/int_chamfer_size.svg"
     },
     {
-      "hash": "sha256-Y8onjmG\/LSuq0d3HfnLoUO2GOBPMqW+XkROwcZVM3tk=",
+      "hash": "sha256-jm1e2C\/Z2C2O1EwblN3fDS7eBJg9epmL1mVnBptOW9g=",
       "url": "img\/stuffimages\/chamfer\/int_part_diam.svg"
     },
     {
-      "hash": "sha256-HZ3Y8AJePt6MsFqfi8uOl2SZ0yORlsPaQXZLLIXNEqc=",
+      "hash": "sha256-lV09dye2oq+8hD1iSz9x4peoCCysNPH6bYuzGdTQBP8=",
       "url": "img\/stuffimages\/chamfer\/int_tool_radius.svg"
     },
     {
@@ -85,15 +85,15 @@
       "url": "img\/stuffimages\/radius\/ext_tool_radius.svg"
     },
     {
-      "hash": "sha256-IkO5xOMlnxapwQs\/bzdyC5IbXLf92zgQXiRTntB47kU=",
+      "hash": "sha256-scES+jDv0MHiKjaIOA19VJLWoeyzr9Y0bpUzn9dK2qI=",
       "url": "img\/stuffimages\/radius\/int_part_diam.svg"
     },
     {
-      "hash": "sha256-81MhXglydKzWFnu++cDFQgM3sr\/GBaV2T9NnywiWNUo=",
+      "hash": "sha256-tocGbxq1KN\/QSCdKOf0CZ1mTTzlqdTBmiR6ZT8wZDzo=",
       "url": "img\/stuffimages\/radius\/int_part_radius.svg"
     },
     {
-      "hash": "sha256-4YXxf3A3Hs+1R5pqDueyh1Awskclb7BEHSFgXFSO1LQ=",
+      "hash": "sha256-N+zzldtx2pxqLzP02s2\/vBbRmLfRS92SgtcXxAUN+wA=",
       "url": "img\/stuffimages\/radius\/int_tool_radius.svg"
     },
     {
@@ -185,7 +185,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-qYdla\/RmZpaJHTdVKGVqsrttogwl80dsxmHcKQuybNo=",
+      "hash": "sha256-jGzLAsiR9LhifbFlBH95TSTGFj9i20TWQ1JyFEkG3gg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -265,7 +265,7 @@
       "url": "_framework\/netstandard.dll"
     },
     {
-      "hash": "sha256-dPqPtsV9EW8StlxpspIsMXcnIPfixmqIkLhHCJn3Pvw=",
+      "hash": "sha256-LE1Jl5zcb9xx1okEozS0nvY8CzmYXzYCsWtm5V5KSxA=",
       "url": "_framework\/Sunduk.dll"
     },
     {
@@ -393,5 +393,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "xkUoL72O"
+  "version": "PeXnXOEv"
 };
