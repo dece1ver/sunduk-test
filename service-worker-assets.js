@@ -37,6 +37,10 @@
       "url": "img\/stuffimages\/chamfer\/ext_chamfer_size.svg"
     },
     {
+      "hash": "sha256-QJrsbL5MPfLsn3iS1XD8rqIVrKZEGPZT5hno3jut8NM=",
+      "url": "img\/stuffimages\/chamfer\/ext_chamfer.svg"
+    },
+    {
       "hash": "sha256-12KDQsTsvmAIpim90Evut6fmK3OQukdZQ4SS4hx5zis=",
       "url": "img\/stuffimages\/chamfer\/ext_part_diam.svg"
     },
@@ -55,6 +59,10 @@
     {
       "hash": "sha256-uLNGngHA8TlLlQH7eCu24F7wX2xMPSNKOoFkulwvpjk=",
       "url": "img\/stuffimages\/chamfer\/int_chamfer_size.svg"
+    },
+    {
+      "hash": "sha256-Ib8S3z3QodOyFqxMTXN4DIVs4t+p\/Jg7DnHRxRzTjl0=",
+      "url": "img\/stuffimages\/chamfer\/int_chamfer.svg"
     },
     {
       "hash": "sha256-jm1e2C\/Z2C2O1EwblN3fDS7eBJg9epmL1mVnBptOW9g=",
@@ -81,6 +89,10 @@
       "url": "img\/stuffimages\/radius\/ext_part_radius.svg"
     },
     {
+      "hash": "sha256-Dp+fymmyK2SXEW9UNXcYbJepUyNB5KwbbMgWjvaAyFg=",
+      "url": "img\/stuffimages\/radius\/ext_raduis.svg"
+    },
+    {
       "hash": "sha256-c3571Hu357PWxX9eex0oPKhrRvoKxS37NJu\/oR6qjjs=",
       "url": "img\/stuffimages\/radius\/ext_tool_radius.svg"
     },
@@ -91,6 +103,10 @@
     {
       "hash": "sha256-tocGbxq1KN\/QSCdKOf0CZ1mTTzlqdTBmiR6ZT8wZDzo=",
       "url": "img\/stuffimages\/radius\/int_part_radius.svg"
+    },
+    {
+      "hash": "sha256-8uxoRf3FDtQB+VjiKV3YxP6JMDF3T1tymzJaWnFossI=",
+      "url": "img\/stuffimages\/radius\/int_radius.svg"
     },
     {
       "hash": "sha256-N+zzldtx2pxqLzP02s2\/vBbRmLfRS92SgtcXxAUN+wA=",
@@ -185,7 +201,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-SpCaH098iDBDylHQ7QzAxLxwZGAhSUEE3VbWz5+C4lA=",
+      "hash": "sha256-eHBLMiJRT4Bef\/eXGwl09gebmm7UvwyxtcTGIvQUMCs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -265,7 +281,7 @@
       "url": "_framework\/netstandard.dll"
     },
     {
-      "hash": "sha256-6bvZy1bCQSvtjuaDvKWaj67S+RQ9\/ofx7Yi0Iy3AxS0=",
+      "hash": "sha256-bBZevvwDKUsZiRdT\/NuMHlgHDTQXRcTAJfkS7ZFfFsk=",
       "url": "_framework\/Sunduk.dll"
     },
     {
@@ -393,5 +409,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "FOnbJr4z"
+  "version": "GTnTe1Tf"
 };
