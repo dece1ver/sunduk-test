@@ -293,11 +293,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-EMUNIhFn+trRwiRgUqE+P5Ah6HXEzPm0drUE\/kdbQUw=",
+      "hash": "sha256-8hHt\/0YktaSMxQGS8cj55ugjHdVcKCCbB41kbC7\/xOw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-OVnUak16Imn+eibiXAW7etkhIgF+QdC++RYnVCmvu+M=",
+      "hash": "sha256-PX2\/HVAd1DYmZHkEpSb87R3bD6NbLuwmp2i38Aq6g3w=",
       "url": "_framework\/BlazorDownloadFile.dll"
     },
     {
@@ -369,11 +369,11 @@
       "url": "_framework\/MudBlazor.dll"
     },
     {
-      "hash": "sha256-n6GhU2i9v75mLxGrDgRLX\/7CUH+ez1HxsetWVwE905E=",
+      "hash": "sha256-elpo7PNVMqGa+eJnJVuqYQ6yLlk1H0hsifrJgNQzLdM=",
       "url": "_framework\/netstandard.dll"
     },
     {
-      "hash": "sha256-6oeMZSQfZhqIn6SDgpjefEBMvR8788OoHYj+F\/5h\/5k=",
+      "hash": "sha256-fmkyBjIO+fPuL2uPrBZo0yKDEhg0Trg4edlpasFPeH0=",
       "url": "_framework\/Sunduk.dll"
     },
     {
@@ -445,7 +445,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-J+52yiLXe4TEn1HdXkBk2vE5lLK7l7onvDauAhQKy\/I=",
+      "hash": "sha256-wWQrIz7fcT3g2sWQob+Qm\/XKQAAemrXtjBSqyB3X+PA=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -461,7 +461,7 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-gGIPl4TzqtBkBQz2JmV69bgbBc3tm05SjaDNrWRYhMw=",
+      "hash": "sha256-kQHnBASpI5WSikzF5W1XQjoENVxNIq83X5Ofp1Nr+hA=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -485,10 +485,6 @@
       "url": "_framework\/System.Threading.dll"
     },
     {
-      "hash": "sha256-QphzPojZAcusInZh\/BddzOcrxWkiEAsGnbkY6wdbfL0=",
-      "url": "_framework\/System.Threading.Tasks.Extensions.dll"
-    },
-    {
       "hash": "sha256-CdIYcGM5BBrUAzmNhfmXEClUakVv890h6fCo4pI4i9k=",
       "url": "Sunduk.styles.css"
     },
@@ -501,5 +497,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "u6WhJL4s"
+  "version": "3afS+08y"
 };
