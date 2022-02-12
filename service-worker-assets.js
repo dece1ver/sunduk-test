@@ -297,7 +297,7 @@
       "url": "v.svg"
     },
     {
-      "hash": "sha256-hrR69FBYpvkVGfB6wQgbpW09jE7whH3+V5XN1npmelQ=",
+      "hash": "sha256-Jyk9lhiwop6R20Va3ccV2ayw71ahDSsUd6gd0f8qYNk=",
       "url": "_framework\/Sunduk.dll"
     },
     {
@@ -1113,7 +1113,7 @@
       "url": "_content\/BlazorDownloadFile\/BlazorDownloadFileScript.js"
     },
     {
-      "hash": "sha256-LeZCLDSiciP+audX3KAMUBnbIZNtq+CGjLJmF4rx\/zU=",
+      "hash": "sha256-ilI+m5Ao2T1K0Dk2oyziaoYGSbepVrijGLDXyscl\/9s=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1121,5 +1121,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "rjsm40lv"
+  "version": "IlRvUzJ2"
 };
