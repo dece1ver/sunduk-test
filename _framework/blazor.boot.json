@@ -7,7 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Sunduk.dll": "sha256-ButiCKEWdi4aBuGa3pwOz5N3IxDDIHvHN6PODIl5hVQ=",
+      "Sunduk.dll": "sha256-6Vd9B9mLCy\/F\/5v6wvzO0+WJ1NwJKVVcm4EznGS2dVA=",
       "Microsoft.CSharp.dll": "sha256-PpkoBrb5GDDzBCVjEGJ15VkONpHLxk8ZZ3uc0eDYPaY=",
       "Microsoft.VisualBasic.Core.dll": "sha256-SyyaBBG5sBtJEfy89ATtHrxESu8\/SyNLYJXV1OaHYG0=",
       "Microsoft.VisualBasic.dll": "sha256-r72HitH7Jt\/VQ3irxjaX1qUbLsK06DZxmFGScnqWFcE=",
