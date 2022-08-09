@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-EgpOZOjGCcPFRi3\/WFDdMtHaQXkgCtKAsVlxMIuTdZQ=",
+      "hash": "sha256-FDBLJWb+jJv2JhVTynD\/sfw8vMFcaHzueBvg+nVES+s=",
       "url": "css\/site.css"
     },
     {
@@ -27,6 +27,26 @@
     {
       "hash": "sha256-P6Zmb2FiM7R2RBrrzVRvyQ56sLPZ+76wBtTikcEDTao=",
       "url": "img\/apple_setup_2.png"
+    },
+    {
+      "hash": "sha256-EERcP13KljbgHH0otaNWT2xNZqagWfpmp4BU+desd54=",
+      "url": "img\/stuffimages\/arc_chord\/arc_lenght.svg"
+    },
+    {
+      "hash": "sha256-z7R\/LHp4T3As4cXmmshdBWKeWqVOvWW06ILpLnhjLD0=",
+      "url": "img\/stuffimages\/arc_chord\/arc_lenght_arc_lenght.svg"
+    },
+    {
+      "hash": "sha256-nW3lxo2Eg3L4kkaCESHfwm9HgPZY5hi0hLnkz7HlFM4=",
+      "url": "img\/stuffimages\/arc_chord\/arc_lenght_arc_radius.svg"
+    },
+    {
+      "hash": "sha256-6Th8qgy5nfus+bRGmvFkdx1boA74bUBrsItZOrZLswI=",
+      "url": "img\/stuffimages\/arc_chord\/arc_lenght_part_diam.svg"
+    },
+    {
+      "hash": "sha256-CzvrQD\/Oe5HypK6kdoR4hh6dHLQI49lqJ4wPw47gfV8=",
+      "url": "img\/stuffimages\/arc_chord\/arc_lenght_tool_radius.svg"
     },
     {
       "hash": "sha256-QJrsbL5MPfLsn3iS1XD8rqIVrKZEGPZT5hno3jut8NM=",
@@ -301,7 +321,7 @@
       "url": "v.svg"
     },
     {
-      "hash": "sha256-LNH0C1LX679vgznYwSBOYT367kIQGS0wxxmZabHyxEs=",
+      "hash": "sha256-GrqBCssfhtlhOrt4q82h51tAZuCNN70\/Vvd6dHkFUzM=",
       "url": "_framework\/Sunduk.dll"
     },
     {
@@ -1117,7 +1137,7 @@
       "url": "_content\/BlazorDownloadFile\/BlazorDownloadFileScript.js"
     },
     {
-      "hash": "sha256-HI4EOzG6vTKz429ETcLEghePoF85wdoybRHLJY20WSo=",
+      "hash": "sha256-IDHsq2MFAiWODymhrvYVVWGGKUbvJ9cX3cqPmpAxoaU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1125,5 +1145,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "6MD4x\/26"
+  "version": "eCv3YwuE"
 };
