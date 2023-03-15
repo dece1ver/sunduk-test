@@ -801,15 +801,15 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-QF5WMx00URIfhSGljNKWEmht+5dFQItDAp2IYMCTWiE=",
+      "hash": "sha256-hFSjPOH2r9vpw96TSQ3xtqGvGrGgkQQF\/GmRDshCuDw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-CsraAqcYvxU5NlxL1P2YTfImjLTPuf9rS0C8PgkJ6fc=",
+      "hash": "sha256-jXXeYa\/U1+Zg9c\/WClqMNStXoTM7A6YX3pIJRE87HO4=",
       "url": "_framework\/Sunduk.dll"
     },
     {
-      "hash": "sha256-uhMkra\/kEl8Xha7bmaUpc89ZuWqCjZeIxyuM0Vr40To=",
+      "hash": "sha256-Nu\/hbkAaCel9TQf+WyusMXpl1lnBejJc778KgxEp+QQ=",
       "url": "css\/site.css"
     },
     {
@@ -1169,5 +1169,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "SjdG0bUc"
+  "version": "RdPN2kCZ"
 };
