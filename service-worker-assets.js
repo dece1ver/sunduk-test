@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "NM7tqUNi",
+  "version": "ufeP+BHp",
   "assets": [
     {
       "hash": "sha256-IUupasMjnt+uyy0AMhIXLvfJPM6HiK4w3xtmE8SMHak=",
@@ -226,8 +226,8 @@ self.assetsManifest = {
       "url": "_framework/Parlot.e0bk6br4se.wasm"
     },
     {
-      "hash": "sha256-ljMIm4zt0L80I9rAKbBMy5XXCBP8BsHRLRl+4k/5nW4=",
-      "url": "_framework/Sunduk.yhtxgcipjo.wasm"
+      "hash": "sha256-QyhVxGa8gW5NIVqUHofJNQhxv1RCnHae5egazNJFQ2o=",
+      "url": "_framework/Sunduk.7rval9rzmx.wasm"
     },
     {
       "hash": "sha256-3bmOcWiL/z+MQTq2Hb9R2i7kZX2owVXliIRy0MMRAxg=",
@@ -878,7 +878,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.300iq62cmr.wasm"
     },
     {
-      "hash": "sha256-j5MvOzZVVs4Jazkkspji/IQqqiQV0jZtBa0kDvyjk3M=",
+      "hash": "sha256-YpAy71YAJ1OLD0F+90wvjp9q1mShheCtAcD8qNn/JsA=",
       "url": "_framework/blazor.boot.json"
     },
     {

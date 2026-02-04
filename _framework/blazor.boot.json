@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Sunduk",
   "resources": {
-    "hash": "sha256-jBPR16Trm/1X+WZ8GaEeDeEa2VIRTnUuZEjsELvCLa0=",
+    "hash": "sha256-eAwFzrwXVz8elgN5XluWd/Uw/5pXo3xdc8MGLQnG8Tk=",
     "fingerprinting": {
       "BlazorCommon.RazorLib.16kegff3l9.wasm": "BlazorCommon.RazorLib.wasm",
       "BlazorTextEditor.RazorLib.xjbeptu7ek.wasm": "BlazorTextEditor.RazorLib.wasm",
@@ -213,7 +213,7 @@
       "mscorlib.560m239brp.wasm": "mscorlib.wasm",
       "netstandard.yg21u65s4h.wasm": "netstandard.wasm",
       "System.Private.CoreLib.m8l0lrv2y9.wasm": "System.Private.CoreLib.wasm",
-      "Sunduk.yhtxgcipjo.wasm": "Sunduk.wasm",
+      "Sunduk.7rval9rzmx.wasm": "Sunduk.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.xidrk0eo52.js": "dotnet.native.js",
       "dotnet.native.y68cfu4kuf.wasm": "dotnet.native.wasm",
@@ -449,7 +449,7 @@
       "WindowsBase.300iq62cmr.wasm": "sha256-gyJyeSLAns1YIwrPLmw2VAbNeQgpzgW5xIJovvySzEc=",
       "mscorlib.560m239brp.wasm": "sha256-XShGzkyhqE1Qwz15C0W5EDSl0wiqbw4NUP1UtzupbE4=",
       "netstandard.yg21u65s4h.wasm": "sha256-PjcsgKDGCmf1+ahJpjBZtaqHugXi6ZJaAVAkX0OzhaI=",
-      "Sunduk.yhtxgcipjo.wasm": "sha256-ljMIm4zt0L80I9rAKbBMy5XXCBP8BsHRLRl+4k/5nW4="
+      "Sunduk.7rval9rzmx.wasm": "sha256-QyhVxGa8gW5NIVqUHofJNQhxv1RCnHae5egazNJFQ2o="
     }
   },
   "cacheBootResources": true,
