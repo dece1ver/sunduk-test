@@ -1,4 +1,4 @@
-/* Manifest version: d/6v016C */
+/* Manifest version: 8BiJE0Jr */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -14,6 +14,9 @@ const offlineAssetsExclude = [ /^service-worker\.js$/ ];
 
 async function onInstall(event) {
     console.info('Service worker: Install');
+
+    // Применяем новую версию сразу, а не после нескольких перезагрузок.
+    self.skipWaiting();
 
     // Fetch and cache all matching items from the assets manifest
     const assetsRequests = self.assetsManifest.assets
@@ -31,6 +34,9 @@ async function onActivate(event) {
     await Promise.all(cacheKeys
         .filter(key => key.startsWith(cacheNamePrefix) && key !== cacheName)
         .map(key => caches.delete(key)));
+
+    // Сразу забираем управление, чтобы свежая версия работала с первой загрузки.
+    await self.clients.claim();
 }
 
 async function onFetch(event) {
