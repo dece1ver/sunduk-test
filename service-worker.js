@@ -1,4 +1,4 @@
-/* Manifest version: 8BiJE0Jr */
+/* Manifest version: Han/n3J/ */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -23,7 +23,11 @@ async function onInstall(event) {
         .filter(asset => offlineAssetsInclude.some(pattern => pattern.test(asset.url)))
         .filter(asset => !offlineAssetsExclude.some(pattern => pattern.test(asset.url)))
         .map(asset => new Request(asset.url, { integrity: asset.hash }));
-    await caches.open(cacheName).then(cache => cache.addAll(assetsRequests));
+    const cache = await caches.open(cacheName);
+    for (const req of assetsRequests) {
+        try { await cache.add(req); }
+        catch (e) { console.warn('Offline cache: skip (SRI mismatch):', req.url); }
+    }
 }
 
 async function onActivate(event) {
