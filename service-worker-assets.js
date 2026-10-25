@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "G2rgEtpd",
+  "version": "LkGJwprE",
   "assets": [
     {
       "hash": "sha256-53l0jf516E+XTfPHvAf4QgEaEAFZFYsPH0my8qWlFcs=",
       "url": "LICENSE.txt"
     },
     {
-      "hash": "sha256-LDLY3qLWk6dRkw7PZG1wokYQ75H05B2SHjmAt6xJlbM=",
+      "hash": "sha256-Pk2JaQ8+TlUcAQ9zc92iyeR2qyGUbZhFjmBRFVkjhTM=",
       "url": "Sunduk.styles.css"
     },
     {
@@ -178,8 +178,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.s42k6owbl4.wasm"
     },
     {
-      "hash": "sha256-ObS4mTNEOrjGfsL2nzPkglKdtWbzTUdiRjDWvRzQ5Zw=",
-      "url": "_framework/MudBlazor.zpamc8oppq.wasm"
+      "hash": "sha256-Y+CJlSnRq2+CJVO1GaBnMAIp7nhcZEmA0gG7dtzRqcs=",
+      "url": "_framework/MudBlazor.tg0twms218.wasm"
     },
     {
       "hash": "sha256-C/O0+a9z23UmXZHFobYtFHYd9v2l8vp5obg7nomONhY=",
@@ -198,16 +198,12 @@ self.assetsManifest = {
       "url": "_framework/Parlot.ti453vo5z1.wasm"
     },
     {
-      "hash": "sha256-NYbZT4AcG/4kfgOXENhmQEas5bQi9nhrczQkSPteVtU=",
-      "url": "_framework/Sunduk.5wb4l7gj63.wasm"
+      "hash": "sha256-XLwnft8LdCOCHeEo8dPKYrf4z3Tf4RhSTw2DTxGj910=",
+      "url": "_framework/Sunduk.Geometry.gp5rad197d.wasm"
     },
     {
-      "hash": "sha256-ROav7KUZv41yBK+DqbFRb9dcebV2U9gVqk5HxT7lRJw=",
-      "url": "_framework/Sunduk.Geometry.4chakblii1.wasm"
-    },
-    {
-      "hash": "sha256-0wmfEb5gV44iVPlq5sQqhn9a6RlDy5MwrRxiRxOjiJs=",
-      "url": "_framework/System.Collections.30xz8kml9l.wasm"
+      "hash": "sha256-krBy4AXAW8NzUqNmci4jNXxF80ZJg/tHEgxc+/CU0jo=",
+      "url": "_framework/Sunduk.ykiiyc7cm1.wasm"
     },
     {
       "hash": "sha256-n/UhKB6GzZxskzvtHbAhCJvWqCJYlkHsJuAVRNAodxU=",
@@ -216,6 +212,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-x+6Xs/iHq9Mr1Haivf1+upZbp1OAyXXdmttkBdTBu1g=",
       "url": "_framework/System.Collections.Immutable.fa5clxfwsg.wasm"
+    },
+    {
+      "hash": "sha256-LiUfHO00HpBGsE7MBy5T4hkaL0lBSo/C2LdETN4EnlE=",
+      "url": "_framework/System.Collections.uonhjg60vm.wasm"
     },
     {
       "hash": "sha256-po0dF5JrHp6W6Z6BUV44fkCx2VpwCrv/4l2HCOpS9Ws=",
@@ -246,8 +246,8 @@ self.assetsManifest = {
       "url": "_framework/System.Linq.Expressions.v9gwzcb2iq.wasm"
     },
     {
-      "hash": "sha256-jKzN5+d+l4qip3xzUk5tU7J+cTBeZz7UtW9r3orq0AU=",
-      "url": "_framework/System.Linq.kokjsudzp6.wasm"
+      "hash": "sha256-z5zVFktWuFpfd0unWDJs3ZCZIZk8jQ2n82MkEtk5uNQ=",
+      "url": "_framework/System.Linq.rxt5mgembz.wasm"
     },
     {
       "hash": "sha256-TId7inpMxoe5YQDY+GPpH0bCG03q8ojsVYlXC7cTeto=",
@@ -262,8 +262,8 @@ self.assetsManifest = {
       "url": "_framework/System.Net.Primitives.thlk6osq1r.wasm"
     },
     {
-      "hash": "sha256-o2bLAz2/YemuEoNDigPS8Aj+p9jIJguvOETqKZUjVA0=",
-      "url": "_framework/System.Private.CoreLib.17it8k4a3c.wasm"
+      "hash": "sha256-5Z0oZjEvJnPNmsi5mhBplBzqdAP8c3xMUVDa0JmIcKU=",
+      "url": "_framework/System.Private.CoreLib.3mgkd5bv7g.wasm"
     },
     {
       "hash": "sha256-H+eo9O2KRGFu6alKgv1Bx+zKwJ38ExonmBJrQgiQpUo=",
@@ -298,8 +298,8 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.Numerics.ybppg3fhc2.wasm"
     },
     {
-      "hash": "sha256-JhG8A28Z5qpwD+pURxc3DxzP7e1In21vL1fCyyVMtiU=",
-      "url": "_framework/System.Runtime.uauj18ru9t.wasm"
+      "hash": "sha256-jNKz7sAaqJ1rH8qg6RBZFvG4PiPzilSRhcWodRzo6AY=",
+      "url": "_framework/System.Runtime.gzl9j2ohpv.wasm"
     },
     {
       "hash": "sha256-N2BB9dS6N0u/fb6n+ojZ6SNqXnrnrI9wt6mAmrKiqJE=",
@@ -326,7 +326,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.w3qd1tpl0e.js"
     },
     {
-      "hash": "sha256-0pP6vHvoZjPPwMzjd9DdYt26zOs5N1t5fyWoFMnjuHU=",
+      "hash": "sha256-64eujxdKd1G4SYIhD+Em6lwCGeCa0iwYRawMXaCixnI=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -370,11 +370,11 @@ self.assetsManifest = {
       "url": "css/fonts.css"
     },
     {
-      "hash": "sha256-2sbt1ffwBthaxEHXg2RtBlq3WCBoLXCJ0RdmtLmWKOU=",
+      "hash": "sha256-EgZm9q2CVx0F7lDjkR1j8nysthyQCDSaBScxpRw7tqY=",
       "url": "css/mudblazor-override.css"
     },
     {
-      "hash": "sha256-UqfCGW78BTQzHi5LR1aKbLnVKmQICYdOLpegEddQGqE=",
+      "hash": "sha256-bIDmzIYgGxS/HEssRTXeyUL01a68YIQZrPa/gegxngA=",
       "url": "css/site.css"
     },
     {
